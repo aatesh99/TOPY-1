@@ -1,0 +1,17 @@
+.DDBtn{
+    height: 60px;
+    width: 205px;
+    font-size: large !important;
+    margin-right: 50px;
+    margin-top: 80px;
+    margin-left: 35px;
+}
+.DivDD{
+    display: flex;
+}
+
+.A11{
+    margin-left: -298px;
+    margin-right: 325px;
+    margin-top: 28px;
+}
